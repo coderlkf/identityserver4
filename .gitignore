@@ -1,6 +1,6 @@
 /.vs
-/BaseFrame.IdentityServer/bin
-/BaseFrame.IdentityServer/obj
+*/bin
+*/obj
 # local env files
 .env.local
 .env.*.local
