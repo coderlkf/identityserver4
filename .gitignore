@@ -1,0 +1,4 @@
+##ignore this file##
+.vs/
+/BaseFrame.IdentityServer/bin/
+/BaseFrame.IdentityServer/obj/
